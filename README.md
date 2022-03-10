@@ -1,5 +1,9 @@
 # CodeTest
 
+#### 本demo类图
+
+![uml.png](https://www.paperkite.net/img/uml.png)
+
 #### 本demo介绍
 * 包含2个功能，删除和替换相同的字符串
 * 使用了策略模式，继承、多态，递归
@@ -10,7 +14,7 @@
 
 ![code_test.png](https://www.paperkite.net/img/code_test.png)
 
-#### 思路
+#### 解题思路
 * 在字符串中，对字符两两比较
 * 记录当前字符 currentChar<br/>
     下一个字符 nextChar<br/>
